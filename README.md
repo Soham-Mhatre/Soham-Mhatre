@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with AI/ML contributions<br>🌱 I’m currently learning backend in mern, Machine learning<br>💬 Ask me about MERN, AI
+🤝 I’m looking for help with Web Development, AI/ML contributions<br>🌱 I’m currently learning backend in mern, Machine learning<br>💬 Ask me about MERN, AI
 
 
 ## 🌐 Socials:
