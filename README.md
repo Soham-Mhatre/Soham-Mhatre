@@ -3,9 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soham-mhatre" alt="soham-mhatre" /></a> </p>
 
+- 🌱 I’m currently learning **Machine learning, backend in mern, DSA**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Soham-Mhatre](https://github.com/Soham-Mhatre)
+
 - 💬 Ask me about **MERN, AI, ML**
 
 - 📫 How to reach me **soham.mhatre22@vit.edu.in**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/soham-mhatre-b6b663257/](https://www.linkedin.com/in/soham-mhatre-b6b663257/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
